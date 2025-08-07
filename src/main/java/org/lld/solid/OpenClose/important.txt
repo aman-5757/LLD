@@ -1,0 +1,3 @@
+- Open for extension, closed for modification
+- Issue with BadCode is that if we want to add new Payment Mehtod (UPI), we have to modify.
+-
