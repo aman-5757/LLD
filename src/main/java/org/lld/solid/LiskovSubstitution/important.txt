@@ -1,0 +1,2 @@
+- Objects of a Super class should be replaceable with objects of a Sub class
+- Split large interfaces into smaller and more specific ones.
