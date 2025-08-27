@@ -1,4 +1,4 @@
-package org.lld.designpatterns.behavioral;
+package org.lld.designpatterns.behavioral.memento;
 
 public class Main {
     public static void main(String[] args) {

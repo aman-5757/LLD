@@ -1,4 +1,4 @@
-package org.lld.designpatterns.behavioral;
+package org.lld.designpatterns.behavioral.memento;
 
 //Originator
 /* A text editor where the user can undo changes, such as text addition, deletion,
